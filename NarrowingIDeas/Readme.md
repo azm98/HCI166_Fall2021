@@ -1,7 +1,8 @@
-PROJECT MEMBERS
-63875 Asfand Yar Khan
-9176 Azm-ul-Haque
-Hammad Hussain
+name  | student id
+------------- | -------------
+M.azm ul haque  | 9176
+asfand yar khan| 63875
+Hammad Hussain | 59540
 
 IDEAS SELECTED
 
