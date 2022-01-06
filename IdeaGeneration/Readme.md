@@ -1,3 +1,9 @@
+name  | student id
+------------- | -------------
+M.azm ul haque  | 9176
+asfand yar khan| 63875
+Hammad Hussain | 59540
+
 Ideas
 **IDEA 1 : Mystery Quotation**
 This activity lets you see how well your students can apply their understanding of an issue or theoretical position. After you’ve explored a topic, show them a quotation and their task is to figure out the point of view behind the quotation and explain it. Make sure remote students have equal opportunity to take part.
