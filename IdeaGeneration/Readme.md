@@ -38,3 +38,7 @@ By using a chat tool or sharing your screen, make sure to begin class with an ex
 However hard teachers try to involve them in class activities, remote students will require specific attention and care. Setting aside time to build these relationships is critical.
 
 ![HCI](https://user-images.githubusercontent.com/88948313/147513351-0fe39ae2-0d9f-4406-a365-629671420797.PNG)
+
+ Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
