@@ -39,6 +39,4 @@ However hard teachers try to involve them in class activities, remote students w
 
 ![HCI](https://user-images.githubusercontent.com/88948313/147513351-0fe39ae2-0d9f-4406-a365-629671420797.PNG)
 
- Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
